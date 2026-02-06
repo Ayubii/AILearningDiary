@@ -1,0 +1,273 @@
+[
+  {
+    "kategori": "Ciput",
+    "nama_produk": "Ciput Renda",
+    "bahan": "Jersey",
+    "detail": "Renda + tali, bergaransi",
+    "harga_sample": 20000,
+    "harga_grosir": {"10":13500,"20":13000,"300":12500,"500":12000,"1000":11500,"5000":11000},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Toska","hex":"#2FA4A9"},
+      {"nama":"Mocca","hex":"#8B6B4E"},
+      {"nama":"Cream","hex":"#E9DDC9"},
+      {"nama":"Maroon","hex":"#6E1E2E"},
+      {"nama":"Abu-abu","hex":"#8C8F94"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"},
+      {"nama":"Coklat Tua","hex":"#4A342E"}
+    ]
+  },
+  {
+    "kategori": "Ciput",
+    "nama_produk": "Ciput Rayon",
+    "bahan": "Rayon Tencel",
+    "detail": "Super adem + tali, bergaransi",
+    "harga_sample": 18000,
+    "harga_grosir": {"10":13500,"20":13000,"100":10000,"500":9500,"1000":9000,"5000":8500},
+    "warna": [
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Cappuccino","hex":"#A27B5C"},
+      {"nama":"Sage Green","hex":"#9CAF9C"},
+      {"nama":"Army","hex":"#5B6E3A"},
+      {"nama":"Mint","hex":"#7ED6C2"},
+      {"nama":"Denim","hex":"#5E7FA3"},
+      {"nama":"Peanut","hex":"#B08A5A"},
+      {"nama":"Mocca","hex":"#8B6B4E"},
+      {"nama":"Hitam","hex":"#0F0F12"}
+    ]
+  },
+  {
+    "kategori": "Ciput",
+    "nama_produk": "Ciput Arab",
+    "bahan": "—",
+    "detail": "Bergaransi",
+    "harga_sample": 16000,
+    "harga_grosir": {"10":8000,"20":7500,"100":6500,"1000":5500,"5000":4500},
+    "warna": [
+      {"nama":"Lilac","hex":"#C6B6E2"},
+      {"nama":"Sky Blue","hex":"#8EC5E9"},
+      {"nama":"Creamy Peach","hex":"#F2C1A8"},
+      {"nama":"Coklat","hex":"#7A5A44"},
+      {"nama":"Abu-abu","hex":"#8C8F94"},
+      {"nama":"Navy","hex":"#1F2A44"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Voal Lasercut",
+    "bahan": "Voal 20 Lasercut",
+    "detail": "Lasercut, bergaransi",
+    "ukuran": ["110x110","130x130 (syar'i)"],
+    "harga_sample": 23000,
+    "harga_grosir": {
+      "110x110":{"10":16500,"20":15500,"100":14500,"500":13500,"1000":12500,"5000":11500},
+      "130x130":{"10":17500,"20":16500,"100":15500,"500":14500,"1000":13500,"5000":12500}
+    },
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Maroon","hex":"#6E1E2E"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"},
+      {"nama":"Mauve","hex":"#B48AA5"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Cappuccino","hex":"#A27B5C"},
+      {"nama":"Sage Green","hex":"#9CAF9C"},
+      {"nama":"Army","hex":"#5B6E3A"},
+      {"nama":"Denim","hex":"#5E7FA3"},
+      {"nama":"Toska","hex":"#2FA4A9"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Bella Square Basic",
+    "bahan": "Bella Square",
+    "detail": "Jahit neci 4 sisi, bergaransi",
+    "ukuran": "110x110",
+    "harga_sample": 17000,
+    "harga_grosir": {"10":12500,"20":12000,"100":11500,"300":11000,"500":10500,"1000":10000,"5000":9500},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Abu-abu","hex":"#8C8F94"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"},
+      {"nama":"Mocca","hex":"#8B6B4E"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Sage Green","hex":"#9CAF9C"},
+      {"nama":"Denim","hex":"#5E7FA3"},
+      {"nama":"Navy","hex":"#1F2A44"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Bella Square Premium",
+    "bahan": "Bella Square",
+    "detail": "Jahit rapi 4 sisi, bergaransi",
+    "ukuran": "110x110",
+    "harga_sample": 27500,
+    "harga_grosir": {"10":23500,"20":22500,"100":21700,"300":21500,"500":20000,"1000":19000,"5000":18000},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Denim","hex":"#5E7FA3"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Mocca","hex":"#8B6B4E"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Bella Square Platinum",
+    "bahan": "Bella Square",
+    "detail": "Jahit rapi 4 sisi, bergaransi",
+    "ukuran": "110x110",
+    "harga_sample": 65000,
+    "harga_grosir": {"<100":35000,">100":34000,">300":32500,">500":31000,">1000":30000,">5000":29000},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Mauve","hex":"#B48AA5"},
+      {"nama":"Sage Green","hex":"#9CAF9C"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "PolyCotton Magnetic",
+    "bahan": "Polycotton jahit tepi",
+    "detail": "Magnetic (tanpa peniti), ada ukuran syar'i, bergaransi",
+    "ukuran": "110x110 (+ syar'i)",
+    "harga_sample": 32000,
+    "harga_grosir": {"10":22000,"20":21500,"<100":21000,">100":20500,">300":19500,">500":18500,">1000":17500,">5000":16500},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"},
+      {"nama":"Sage Green","hex":"#9CAF9C"},
+      {"nama":"Toska","hex":"#2FA4A9"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Voal Basic",
+    "bahan": "Paris Voal",
+    "detail": "Jahit rapi pinggir neci, bergaransi",
+    "ukuran": "110x110",
+    "harga_sample": 23000,
+    "harga_grosir": {"10":16500,"20":16000,"100":15500,"300":15000,"500":14500,"1000":14000,"5000":13500},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Mocca","hex":"#8B6B4E"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Voal Premium",
+    "bahan": "Paris Voal",
+    "detail": "Jahit rapi 4 sisi, bergaransi",
+    "ukuran": "110x110",
+    "harga_sample": 26500,
+    "harga_grosir": {"10":20500,"20":19500,"100":18700,"300":17500,"500":16500,"1000":15500,"5000":14500},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Mauve","hex":"#B48AA5"},
+      {"nama":"Latte","hex":"#C8B7A6"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Voal Platinum",
+    "bahan": "Paris Voal",
+    "detail": "Jahit rapi 4 sisi, bergaransi",
+    "ukuran": "110x110",
+    "harga_sample": 65000,
+    "harga_grosir": {"10":46000,"20":44000,"100":43000,"300":40000,"500":39000,"1000":37000,"5000":35000},
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Sage Green","hex":"#9CAF9C"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Paris Japan (Basic/Premium/Platinum)",
+    "bahan": "Paris Japan",
+    "detail": "Jahit rapi 4 sisi, bergaransi",
+    "ukuran": "110x110",
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Mocca","hex":"#8B6B4E"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"}
+    ]
+  },
+  {
+    "kategori": "Segiempat",
+    "nama_produk": "Paris Jadul (Varisha Red Rose / Basic / Premium)",
+    "bahan": "Paris Jadul",
+    "detail": "Tepian Paris Jadul, bergaransi",
+    "ukuran": "110x110",
+    "warna": [
+      {"nama":"Merah Mawar","hex":"#B12A34"},
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Navy","hex":"#1F2A44"}
+    ]
+  },
+  {
+    "kategori": "Bergo",
+    "nama_produk": "Bergo Pendek Basic",
+    "bahan": "Jersey",
+    "detail": "Nyaman dipakai, jahitan rapi, bergaransi",
+    "ukuran": "Pendek (S)",
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Abu-abu","hex":"#8C8F94"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Navy","hex":"#1F2A44"}
+    ]
+  },
+  {
+    "kategori": "Bergo",
+    "nama_produk": "Bergo Sedang Basic / Platinum / Syar'i / Anak",
+    "bahan": "Jersey",
+    "detail": "Super nyaman, adem, jahitan rapi, bergaransi",
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"},
+      {"nama":"Sage Green","hex":"#9CAF9C"}
+    ]
+  },
+  {
+    "kategori": "Pashmina",
+    "nama_produk": "Pashmina Ceruti Babydoll (Basic/Premium/Platinum)",
+    "bahan": "Ceruti Babydoll",
+    "detail": "Adem, jatuh, jahit 4 sisi, bergaransi",
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Mauve","hex":"#B48AA5"},
+      {"nama":"Sage Green","hex":"#9CAF9C"},
+      {"nama":"Navy","hex":"#1F2A44"}
+    ]
+  },
+  {
+    "kategori": "Pashmina",
+    "nama_produk": "Pashmina Kaos Rayon (Basic/Premium/Tencel/Platinum)",
+    "bahan": "Rayon / Rayon Tencel",
+    "detail": "Halus, elastis, adem, jahit 4 sisi, bergaransi",
+    "warna": [
+      {"nama":"Hitam","hex":"#0F0F12"},
+      {"nama":"Abu-abu","hex":"#8C8F94"},
+      {"nama":"Navy","hex":"#1F2A44"},
+      {"nama":"Latte","hex":"#C8B7A6"},
+      {"nama":"Dusty Pink","hex":"#D9A6B2"}
+    ]
+  }
+]
