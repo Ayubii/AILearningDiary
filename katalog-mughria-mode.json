@@ -383,9 +383,8 @@
       ]
     }
 
-    // Tambah kategori ke depan:
-    // { "slug": "aksesoris", "nama": "Aksesoris", "items": [] },
-    // { "slug": "packaging", "nama": "Packaging", "items": [] }
+ 
   ]
 }
+
 
