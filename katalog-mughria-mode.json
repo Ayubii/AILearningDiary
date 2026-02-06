@@ -378,7 +378,7 @@
           ],
           "min_order": null,
           "cara_packing": null,
-          "promo": null
+          "promo": null,
         }
       ]
     }
@@ -388,3 +388,4 @@
     // { "slug": "packaging", "nama": "Packaging", "items": [] }
   ]
 }
+
